@@ -1,12 +1,12 @@
-<h1 align="center">Hello, I'm k1ppzy</h1>
+<h1 align="center">67 333 c++ 333 67</h1>
 
 ## Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=rust,python,github,bash,linux,debian,nix,vscode" alt="Rust,Python,GitHub,Bash,Linux,Debian,Nix,VScode">
+    <img src="https://skillicons.dev/icons?i=cpp,cpp,cpp,cpp,cpp,cpp,cpp,cpp" alt="cpp,cpp,cpp,cpp,cpp,cpp,cpp,cpp">
   </a>
 </p>
 
 ## Projects 
 
-<h2 align="center">I have nothing</h2>
+<h2 align="center">333</h2>
